@@ -121,3 +121,6 @@ PaaS is a great option if you're looking for a time- and money-saving solution. 
 
 
 ## Part 4 - SaaS (Software as a service)
+
+
+![image](https://user-images.githubusercontent.com/106639884/188518164-1caaf1e5-3ca8-4a78-8a34-69a963ba7d81.png)
