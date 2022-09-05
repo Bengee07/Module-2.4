@@ -82,6 +82,42 @@ AWS IaaS helps businesses to digitize more quickly while allowing them to integr
 
 ---
 
-## Part 3 - Insert Summary
+## Part 3 - PaaS (Platform as a service)
 
-Insert Instructions
+![image](https://user-images.githubusercontent.com/106639884/188517939-b8d9ad6a-ef38-4185-8217-5cd30c537527.png)
+
+
+This service gives programmers the building blocks they need to create apps. In its most basic form, a third-party vendor will give users hardware and software tools over the Internet, leaving users only responsible for the design and development of applications. The PaaS service provider will host all hardware and software on its own network.
+
+### PaaS benefit
+
+- Availability of application development environment which saves users a lot of time and money.
+- Users don’t need to worry about platform maintenance and backup services which are entirely managed by cloud technology.
+- The infrastructure is stored directly in the cloud, and users can always access it immediately.
+- Save time developing applications thanks to existing cross-platform environments.
+- Flexible development according to users’ need of using advanced software.
+
+
+### PaaS Characteristics
+
+Consider the below characteristics will help you determine when PaaS is being utilized:
+
+- Resources can easily be scaled up or down as your business changes.
+- Provides a variety of services to facilitate the development, testing, and deployment of apps.
+- Multiple users can access via the same development application.
+- Able to integrate with web services and databases.
+
+
+### When to Use PaaS
+
+PaaS is a great option if you're looking for a time- and money-saving solution. By managing software updates and security patches for the developer, PaaS frees up more time to focus on the creative aspects of app development, such as designing, testing, and deploying the app.
+
+
+### AWS PaaS Drawbacks 
+
+- Dependent on the provider’s functional capabilities, speed, and reliability.
+- Compatibility problems may arise when existing infrastructure is incorporated into a new environment.
+- Security risks due to its availability in the public environment.
+
+
+## Part 4 - SaaS (Software as a service)
