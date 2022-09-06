@@ -10,13 +10,13 @@ Write about how instructors can brief the students at the start of the lesson. I
 
 ### Self Study Check-in
 
-Q1:
+Q1: What is IaaS and give your own example of IaaS
 
 
-Q2:
+Q2: What is PaaS and give your own example of PaaS
 
 
-Q3:
+Q3: What is SaaS and give your own example of SaaS
 
 
 ---
