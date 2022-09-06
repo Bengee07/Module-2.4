@@ -10,10 +10,12 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What are IaaS, PaaS and SaaS
+- The difference of IaaS, PaaS and SaaS
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Differentiate different usecase for IaaS, PaaS and SaaS
+- Come with solution for different business case with IaaS, PaaS and SaaS
 
 
 ## Lesson Plan
@@ -22,11 +24,16 @@ Learners will be able to:
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Conceptual Knowledge| Instructors brief students on the subject matter conceptually before diving into hands on. This section can be shorter but not longer. Use video clips for explanation if necessary.|
-|20 mins|Code Along| Practical hands on|
+|10 mins|Conceptual Knowledge| Summary of IaaS, PaaS, and SaaS|
+|10 mins|Conceptual Knowledge| IaaS (Infrastructure as a service)|
+|10 mins|Activity| Activity of IaaS (Infrastructure as a service)|
+|10 mins|Conceptual Knowledge| PaaS (Platform as a service)|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
+|10 mins|Activity| Activity of PaaS (Platform as a service)|
+|10 mins|Conceptual Knowledge| SaaS (Software as a service)|
+|10 mins|Activity| Activity of SaaS (Software as a service)|
+|10 mins|Conceptual Knowledge| Summary of Activities|
 |5 mins|Buffer|In case of overrun|
 |5 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
