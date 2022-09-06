@@ -2,11 +2,14 @@
 
 ### Preparation
 
-Write about any preparations needed for the lesson, such as tools, installations, prior-knowledge, etcs.
+-
 
 ### Lesson Overview
 
-Write about how instructors can brief the students at the start of the lesson. It is good to guide students through what is going to be covered and the outcome. Setting expectations.
+A growing number of businesses are turning to IT infrastructures, platforms, and software that are provided as a service in place of on-premise IT solutions as a result of the increased adoption of cloud environments. But how does that actually appear in use, and what distinguishes the various service models from one another?
+
+Discover the differences between IaaS, PaaS, and SaaS and how they can be used to build a cloud computing environment that is suited to your needs. We'll also look at some real-world examples so you can see how as-a-service options fit into your existing IT environment and learn about their advantages and drawbacks.
+
 
 ### Self Study Check-in
 
