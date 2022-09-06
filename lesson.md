@@ -24,6 +24,9 @@ Q3:
 ## Part 1 - Summary of IaaS, PaaS, and SaaS
 
 
+![image](https://user-images.githubusercontent.com/106639884/188755099-be4f6b4e-6df0-4bab-995e-49fdb88695d4.png)
+
+
 **Infrastructure as a Service (IaaS)**
 
 Infrastructure as a Service, sometimes abbreviated as IaaS, contains the basic building blocks for cloud IT and typically provide access to networking features, computers (virtual or on dedicated hardware), and data storage space. Infrastructure as a Service provides you with the highest level of flexibility and management control over your IT resources and is most similar to existing IT resources that many IT departments and developers are familiar with today.
@@ -124,3 +127,36 @@ PaaS is a great option if you're looking for a time- and money-saving solution. 
 
 
 ![image](https://user-images.githubusercontent.com/106639884/188518164-1caaf1e5-3ca8-4a78-8a34-69a963ba7d81.png)
+
+## Part 5 - Differences Between IaaS, Paas, and SaaS
+
+**Applications**
+
+- IaaS: Applications are managed by the users, and IaaS enables all the needed infrastructure to operate large scale web applications.
+- PaaS: Applications are managed by the users, and PaaS tools are often used to develop mobile applications.
+- SaaS: Applications are managed by the service provider, and they are also called web-based software or on-demand software. They are run on the SaaS provider’s servers, where the provider is in charge of the access to the applications, their security, availability, and performance.
+
+**Data**
+- IaaS: The data is managed by the user, and the IaaS infrastructure enables businesses to eliminate the costs of having and maintaining their own physical servers. Also, IaaS data centers are more scalable compared to traditional data centers.
+- PaaS: The data is managed by the user, and it is cheaper to do it compared to IaaS. It also has built-in scalability, reliability, and fault tolerance.
+- SaaS: The data is managed by the provider, and SaaS can handle and efficiently manage large volumes of data. SaaS enables users to access their data from any device. All you need is access to a web browser and an Internet connection.
+
+**Runtime**
+- IaaS: Runtime is managed by the user, and companies that use IaaS pay for it by the hour for compute environments, regardless of whether they are being used or not.
+- PaaS: Runtime is managed by the service provider, and the runtime on PaaS limits users to a specific application framework.
+- SaaS: Runtime is managed by the service provider, and it comes as a part of the full-fledged product that SaaS offers to its users.
+
+**Middleware**
+- IaaS: Middleware is managed by the user, and it is a software that lies between the OS and the applications that run on it.
+- PaaS: Middleware is managed by the service provider, so users don’t have to bother with anything related to it.
+- SaaS: Middleware is managed by the service provider, and it improves the flexibility of multi-tenant SaaS applications because it provides tenant-specific customizations.
+
+**Operating System**
+- IaaS: The OS is managed by the user.
+- PaaS: The OS is managed by the service provider.
+- SaaS: The OS is managed by the service provider.
+
+**Virtualization, Servers, Storage, Networking**
+- IaaS: All is handled by the service provider, and users can rest assured that all is up running without having to do anything.
+- PaaS: All is handled by the service provider.
+- SaaS: All is handled by the service provider.
