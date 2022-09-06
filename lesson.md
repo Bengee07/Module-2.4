@@ -161,6 +161,7 @@ Apart from AWS IaaS Paas, Amazon also includes SaaS in its services. This Softwa
 
 ## Part 5 - Differences Between IaaS, Paas, and SaaS
 
+Let’s first see the difference between the three models of cloud service through an example, where the different models are substituted with cars:
 
 ![image](https://user-images.githubusercontent.com/106639884/188755914-9da8844a-f8bb-4e3c-85d0-d93990b25595.png)
 ![image](https://user-images.githubusercontent.com/106639884/188755949-68974240-908d-4106-a1f2-a10534514436.png)
