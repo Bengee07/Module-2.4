@@ -253,3 +253,14 @@ Let’s first see the difference between the three models of cloud service throu
 - IaaS: All is handled by the service provider, and users can rest assured that all is up running without having to do anything.
 - PaaS: All is handled by the service provider.
 - SaaS: All is handled by the service provider.
+
+
+
+### Brainstorming Activity
+
+You already know Iaas, Paas and SaaS. Lets explore some of these question individually 
+
+|Qns|Ans|
+|-|-|
+|Which one is more beneficial for you? IaaS, PaaS or SaaS|_Answer here_|
+|If you are a decision maker, what you think you will use the most and will be implemented on your team/ company?|_Answer here_|
