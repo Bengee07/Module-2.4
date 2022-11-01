@@ -86,6 +86,23 @@ AWS IaaS helps businesses to digitize more quickly while allowing them to integr
 - Customers’ inability to access their data when vendor outages happen
 - Required team training to learn how to manage new infrastructure
 
+
+### Brainstorming Activity
+
+You or your group have discussed a specific case or business. If you implement IaaS in your business, let's answer the following questions based on your business/case
+
+|Qns|Ans|
+|-|-|
+|Will your Applications managed by you or your provider?|_Answer here_|
+|Will your Data managed by you or your provider?|_Answer here_|
+|Will your Runtime managed by you or your provider?|_Answer here_|
+|Will your Middleware managed by you or your provider?|_Answer here_|
+|Will your Operating System managed by you or your provider?| _Answer here_ |
+|Will your Virtualization managed by you or your provider?|_Answer here_|
+|Will your Servers managed by you or your provider?|_Answer here_|
+|Will your Storage managed by you or your provider?|_Answer here_|
+|Will your Networking managed by you or your provider?|_Answer here_|
+
 ---
 
 ## Part 3 - PaaS (Platform as a service)
@@ -126,6 +143,23 @@ PaaS is a great option if you're looking for a time- and money-saving solution. 
 - Security risks due to its availability in the public environment.
 
 
+### Brainstorming Activity
+
+You or your group have discussed a specific case or business. If you implement PaaS in your business, let's answer the following questions based on your business/case
+
+|Qns|Ans|
+|-|-|
+|Will your Applications managed by you or your provider?|_Answer here_|
+|Will your Data managed by you or your provider?|_Answer here_|
+|Will your Runtime managed by you or your provider?|_Answer here_|
+|Will your Middleware managed by you or your provider?|_Answer here_|
+|Will your Operating System managed by you or your provider?| _Answer here_ |
+|Will your Virtualization managed by you or your provider?|_Answer here_|
+|Will your Servers managed by you or your provider?|_Answer here_|
+|Will your Storage managed by you or your provider?|_Answer here_|
+|Will your Networking managed by you or your provider?|_Answer here_|
+
+
 ## Part 4 - SaaS (Software as a service)
 
 
@@ -162,13 +196,31 @@ Apart from AWS IaaS Paas, Amazon also includes SaaS in its services. This Softwa
 - Limited customization capabilities.
 - Loss of operational control which affects how PaaS solutions are managed, provisioned, and operated.
 
+
+
+### Brainstorming Activity
+
+You or your group have discussed a specific case or business. If you implement SaaS in your business, let's answer the following questions based on your business/case
+
+|Qns|Ans|
+|-|-|
+|Will your Applications managed by you or your provider?|_Answer here_|
+|Will your Data managed by you or your provider?|_Answer here_|
+|Will your Runtime managed by you or your provider?|_Answer here_|
+|Will your Middleware managed by you or your provider?|_Answer here_|
+|Will your Operating System managed by you or your provider?| _Answer here_ |
+|Will your Virtualization managed by you or your provider?|_Answer here_|
+|Will your Servers managed by you or your provider?|_Answer here_|
+|Will your Storage managed by you or your provider?|_Answer here_|
+|Will your Networking managed by you or your provider?|_Answer here_|
+
+
 ## Part 5 - Differences Between IaaS, Paas, and SaaS
 
 Let’s first see the difference between the three models of cloud service through an example, where the different models are substituted with cars:
 
 ![image](https://user-images.githubusercontent.com/106639884/188755914-9da8844a-f8bb-4e3c-85d0-d93990b25595.png)
 ![image](https://user-images.githubusercontent.com/106639884/188755949-68974240-908d-4106-a1f2-a10534514436.png)
-
 
 
 **Applications**
