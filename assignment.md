@@ -11,9 +11,9 @@ Work with your group to define your own business and your own IaaS / PaaS or Saa
 
 ```
 1. Define your business
-2. Define your Infra
-3. Define your Platform
-4. Define Your SaaS
+2. Define your Infra-as-a-Service tools
+3. Define your Platform-as-a-Service tools
+4. Define Your Software-as-a-Service tools
 ```
 
 - Choose a specific use case (e.g. web application development, big data processing, machine learning) and determine which type of service (IaaS, PaaS, or SaaS) would be the most appropriate for that use case, providing a detailed explanation of your reasoning.
